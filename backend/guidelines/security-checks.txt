@@ -1,0 +1,5 @@
+- Never hardcode API keys, passwords, or secrets in the code.
+- Always validate and sanitize user inputs to prevent XSS or SQL injection.
+- Use HTTPS for all API calls.
+- Hash passwords with bcrypt or Argon2 before storing.
+- Avoid exposing stack traces in production.

@@ -1,1 +1,0 @@
-CodeNerve is a code reviewing platform.

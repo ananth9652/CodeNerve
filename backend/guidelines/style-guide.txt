@@ -1,0 +1,5 @@
+- Use meaningful and descriptive variable, function, and class names.
+- Keep functions short (prefer under 50 lines).
+- Avoid deeply nested loops or conditions (max 3 levels).
+- Always handle errors with try-catch or error-handling patterns.
+- Remove unused imports, variables, and functions.

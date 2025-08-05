@@ -1,0 +1,5 @@
+- Use camelCase for variables and functions.
+- Use PascalCase for class names and React components.
+- Constants should be in UPPER_CASE with underscores.
+- File names should be lowercase with hyphens or underscores.
+- Indent code with 2 spaces (no tabs).
